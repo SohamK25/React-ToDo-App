@@ -1,8 +1,12 @@
-# React + Vite
+# React ToDo App 📝
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple ToDo List application build using React.js and Tailwind CSS.
 
-Currently, two official plugins are available:
+Features of this application:
+- Add and Delete todos with ease. ✅
+- Your todos remain saved even after closing or refreshing the browser. 📁
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 The project is live and can be accessed at: https://sohamstodo.netlify.app/
+
+### ![Screenshot 2025-05-26 220133](https://github.com/user-attachments/assets/f7f00b02-8bf0-4e60-897b-800d8c84bca4)
+
