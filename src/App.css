@@ -1,0 +1,28 @@
+
+.notebook-paper {
+  background-image: repeating-linear-gradient(
+    to bottom,
+    #ffffff,
+    #ffffff 29px,
+    #cbd5e1 30px
+  );
+  background-size: 100% 30px;
+  background-repeat: repeat-y;
+}
+
+
+.notebook-style {
+  position: relative;
+  background-color: #ffffff;
+  border-left: solid #e11d48;
+}
+
+.notebook-style::before {
+  content: "";
+  position: absolute;
+  left: 0.5rem;
+  top: 0.75rem;
+  bottom: 0.75rem;
+  width: 2px;
+  background-color: #e11d48;
+}
