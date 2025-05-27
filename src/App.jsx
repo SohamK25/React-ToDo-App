@@ -77,7 +77,7 @@ function App() {
               className={`px-4 py-2 rounded-full ${filter === "not-completed" ? "bg-blue-500 hover:bg-blue-600 text-white" : "bg-gray-200"}`}
               onClick={() => setFilter("not-completed")}
             >
-              Not Completed
+              Pending
             </button>
           </div>
 
